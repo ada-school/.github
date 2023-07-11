@@ -13,3 +13,4 @@ Together, let's transform education, one line of code at a time!
 ### KARMA 🧪
 - 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+▶️ [Youtube](https://www.youtube.com/@adaschool)
