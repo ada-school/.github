@@ -1,38 +1,10 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/61118853?s=200&v=4">
 
 
-## <REPLACE WITH CODELAB NAME>
-
-<Replace with codelab descrition>
-
-**Learning Objectives**
-
-- [ ]  /*replace with learning objetives*/
+## Ada School <Educación para Tod@s>
 
 
-
-## /*Replace with Human Skill to be practice*/ 🤹🏽 
-
-/*replace with brief introduction of human skill in the context of the codelab*/
-
-**Main Topics**
-
-* /*replace with main topic 1*/
-* /*replace with main topic 2*/
-* /*replace with main topic 2*/
-
-
-
-## Codelab 🧪
+## KARMA 🧪
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
-
-
-### Part 1: /*Replace with Part 1 title*/:
-
-### Advance Challenge: <replace with challenge title>
-
-1. /*replace with addicional challenge for advanced students*/
-
-   ***Hint***: /*replace with a hint that help students solve the challenge*/
